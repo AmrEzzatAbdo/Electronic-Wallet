@@ -2,7 +2,7 @@
 Special wallet for Pilgrims 
 
 # About
->we 5 groub of programmers heard from 'Hajj Hackathon' and decided to helping Pilgrims so we decided to participate in it and make available software app to helpe them in Financial problem during Hajj so we coding web dashbourd and android app we wish it help them in your problem and maybe have more features in th future,we very happy for these work as a team for Pilgrims.
+>we groub of 5 members of programmers heard from 'Hajj Hackathon' and decided to helping Pilgrims so we decided to participate in it and make available software app to helpe them in Financial problem during Hajj so we coding web dashbourd and android app we wish it help them in your problem and maybe have more features in th future,we very happy for these work as a team for Pilgrims.
 
 
  --------------------------------------------------------------------------
